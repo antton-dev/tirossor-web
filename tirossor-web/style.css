@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100;200;300;400;500;600;700&display=swap");
+h1 img {
+  height: 90px;
+  width: auto;
+  vertical-align: middle;
+}
+
+body {
+  font-family: "IBM Plex Mono";
+}
+
+header, main {
+  max-width: 1000px;
+  width: 100vw;
+  background-color: #F7754A;
+}/*# sourceMappingURL=style.css.map */

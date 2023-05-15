@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100;200;300;400;500;600;700&display=swap');
+
+$orange1: #F53E01;
+$orange2: #751D00;
+$orange3: #F7754A;
+$orange4: #753823;
+$orange5: #C23000;
+
+
+h1 img {
+    height: 90px;
+    width: auto;
+    vertical-align: middle;
+}
+
+
+
+
+body {
+    font-family: 'IBM Plex Mono';
+}
+
+header, main {
+    max-width: 1000px;
+    width: 100vw;
+    background-color: $orange3;
+}
